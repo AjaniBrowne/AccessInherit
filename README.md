@@ -1,3 +1,3 @@
 # AccessInherit
-C++ practice
+C# practice
 In this task I practice the inheritance concept 

@@ -1,0 +1,2 @@
+# AccessInherit
+C++ practice
